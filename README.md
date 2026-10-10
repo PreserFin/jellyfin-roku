@@ -36,10 +36,24 @@ The full list is on the [Features](https://github.com/Moonfin-Client/Roku/wiki/F
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77f53831-ecc7-496a-a438-e2d5c9d21794" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a801778d-0e23-4a0e-8ebd-864e840e35cd" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c42127c-a1a2-4dbf-b606-d9fdce211a90" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/598379be-38bf-4787-9258-7de68b536e98" />
+<p align="center">
+  <img src="images/readme/1-home.png" width="100%" alt="Home screen with the featured media bar" />
+</p>
+<p align="center">
+  <img src="images/readme/2-playback.png" width="49%" alt="Player with trickplay thumbnails and the subtitle menu" />
+  <img src="images/readme/5-livetv.png" width="49%" alt="Live TV guide, channel changer and player" />
+</p>
+<p align="center">
+  <img src="images/readme/3-details.png" width="49%" alt="The five detail screen styles" />
+  <img src="images/readme/4-mediabars.png" width="49%" alt="The six media bar styles" />
+</p>
+<p align="center">
+  <img src="images/readme/8-home-rows.png" width="49%" alt="Modern and Classic home rows" />
+  <img src="images/readme/6-navigation.png" width="49%" alt="Top and Sidebar navigation" />
+</p>
+<p align="center">
+  <img src="images/readme/9-music.png" width="49%" alt="Music player with synced lyrics" />
+</p>
 
 More in the [Screenshots](https://github.com/Moonfin-Client/Roku/wiki/Screenshots) gallery.
 

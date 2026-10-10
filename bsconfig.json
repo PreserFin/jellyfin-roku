@@ -4,6 +4,7 @@
     "source/**/*.*",
     "components/**/*.*",
     "images/**/*.*",
+    "!images/readme/**/*",
     "locale/**/*.*",
     "settings/**/*.*",
     "fonts/**/*.*"
