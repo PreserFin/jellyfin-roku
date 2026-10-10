@@ -52,7 +52,7 @@ The full list is on the [Features](https://github.com/Moonfin-Client/Roku/wiki/F
   <img src="images/readme/6-navigation.png" width="49%" alt="Top and Sidebar navigation" />
 </p>
 <p align="center">
-  <img src="images/readme/9-music.png" width="49%" alt="Music player with synced lyrics" />
+  <img src="images/readme/9-music.png" width="100%" alt="Music player with synced lyrics" />
 </p>
 
 More in the [Screenshots](https://github.com/Moonfin-Client/Roku/wiki/Screenshots) gallery.
