@@ -339,7 +339,7 @@
             "glyph": "unfold_more",
             "requires": "setting:ui.home.rowsStyle!=v1",
             "type": "radio",
-            "default": "460",
+            "default": "420",
             "options": [
               {
                 "title": "360 px",
@@ -354,7 +354,7 @@
                 "id": "400"
               },
               {
-                "title": "420 px",
+                "title": "420 px (Default)",
                 "id": "420"
               },
               {
@@ -362,7 +362,7 @@
                 "id": "440"
               },
               {
-                "title": "460 px (Default)",
+                "title": "460 px",
                 "id": "460"
               },
               {

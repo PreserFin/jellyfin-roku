@@ -148,7 +148,7 @@ sub updateSize()
         paddingKey = "ui.home.modernRowsPadding"
         minPadding = 360
         maxPadding = 560
-        defaultPadding = 460
+        defaultPadding = 420
     else
         paddingKey = "ui.home.classicRowsPadding"
         minPadding = 10
